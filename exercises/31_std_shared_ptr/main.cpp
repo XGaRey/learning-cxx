@@ -1,7 +1,5 @@
 ﻿﻿#include "../exercise.h"
 #include <memory>
-#include <cassert>
-#include <cstring>
 
 // READ: `std::shared_ptr` <https://zh.cppreference.com/w/cpp/memory/shared_ptr>
 // READ: `std::weak_ptr` <https://zh.cppreference.com/w/cpp/memory/weak_ptr>
